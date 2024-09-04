@@ -1,2 +1,2 @@
-# Food-Cafe- System
+# Food-Cafe-System
  This repository contains  Food Cafe System.This is a academic Projects. It designed in the HTML,CSS,JavaScript and PHP programming languages.This repository is included View available menu items, order process easily payement methods,add reservation and view booking process . And so have  three user login systems such as Admin , Customer and staff Login. Admin can add and manage meal..Customer can select menu item and can order it. Staff manager can view ordering details and  view booking details.
